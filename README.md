@@ -74,7 +74,7 @@
 - Each subnet can only contain one scope of range of IP addresses
 - Server Manager > Tools > DHCP > IPv4 > New Scope > 
   
-   <p align="center">
+<p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/176343317-1e8882b2-1d83-463d-b6fb-55a67b306018.png" height="100%" width="100%" alt="AD DS"/>
   
@@ -87,3 +87,12 @@
   3. Reservations - Lists all the computers that have a DHCP reservation
   4. Scope Options
   5. Policies
+  
+  <p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176344211-b5e10e96-9040-45b2-8815-07fd044f2d4f.png" height="100%" width="100%" alt="AD DS"/>
+  
+<p/>
+  
+
+
