@@ -51,6 +51,6 @@
  
  <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/176341597-1fbbfe8b-83c2-433f-bd24-0b09c8397e52.png" height="75%" width="75%" alt="AD DS"/>
+<img src="https://user-images.githubusercontent.com/104326475/176341597-1fbbfe8b-83c2-433f-bd24-0b09c8397e52.png" height="175%" width="175%" alt="AD DS"/>
   
 <p/>
