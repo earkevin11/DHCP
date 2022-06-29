@@ -67,3 +67,15 @@
 <img src="https://user-images.githubusercontent.com/104326475/176342312-9f0e7b21-490e-4bdd-ac74-b10c51695189.png" height="100%" width="100%" alt="AD DS"/>
   
 <p/>
+  
+  
+# Create a DHCP Scope and Exclusions
+- DHCP scope is a pool of IP addresses on a specific subnet that can be leased by the DHCP server
+- Each subnet can only contain one scope of range of IP addresses
+- Server Manager > Tools > DHCP > IPv4 > New Scope > 
+  
+   <p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176343317-1e8882b2-1d83-463d-b6fb-55a67b306018.png" height="100%" width="100%" alt="AD DS"/>
+  
+<p/>
