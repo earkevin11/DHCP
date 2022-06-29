@@ -54,3 +54,16 @@
 <img src="https://user-images.githubusercontent.com/104326475/176341597-1fbbfe8b-83c2-433f-bd24-0b09c8397e52.png" height="175%" width="175%" alt="AD DS"/>
   
 <p/>
+
+  
+# After installing DHCP, click the "Complete DHCP Configuration"
+- You wll be prompted to create 
+  1. DHCP Admins
+  2. DHCP Users
+
+# By default, this username will be generated. Click commit.
+ <p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/176342312-9f0e7b21-490e-4bdd-ac74-b10c51695189.png" height="100%" width="100%" alt="AD DS"/>
+  
+<p/>
