@@ -79,3 +79,11 @@
 <img src="https://user-images.githubusercontent.com/104326475/176343317-1e8882b2-1d83-463d-b6fb-55a67b306018.png" height="100%" width="100%" alt="AD DS"/>
   
 <p/>
+  
+# Address Pool of Scope
+- After activating the Scope, you can see:
+  1. Address Pool - tells you the scope of available IP addresses and exlusions
+  2. Address Leases - shows you all the client's computers who have received a TCP/IP configuration from DHCP
+  3. Reservations - Lists all the computers that have a DHCP reservation
+  4. Scope Options
+  5. Policies
